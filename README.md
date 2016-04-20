@@ -28,6 +28,10 @@ or try it for a few seconds like:
 
 On OpenBSD or others OSes using PF you might use the \<table\> functions to achieve the same.
 
+## ban-address.sh
+
+Adds the specified address to a ban list that can be run as a shell script.
+
 
 # Special thanks to ipdeny.com
 
